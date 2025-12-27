@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Co-Ban on Blog Java &amp; JavaScript</title>
-    <link>//localhost:1313/tags/co-ban/</link>
+    <link>/tags/co-ban/</link>
     <description>Recent content in Co-Ban on Blog Java &amp; JavaScript</description>
     <generator>Hugo -- 0.153.2</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/co-ban/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/co-ban/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cấu trúc chương trình Java cơ bản</title>
-      <link>//localhost:1313/posts/cau-truc-chuong-trinh-java/</link>
+      <link>/posts/cau-truc-chuong-trinh-java/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/cau-truc-chuong-trinh-java/</guid>
+      <guid>/posts/cau-truc-chuong-trinh-java/</guid>
       <description>&lt;h2 id=&#34;cấu-trúc-chương-trình-java&#34;&gt;Cấu trúc chương trình Java&lt;/h2&gt;
 &lt;p&gt;Một chương trình Java gồm:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>Java là gì? Ứng dụng của Java trong lập trình mạng</title>
-      <link>//localhost:1313/posts/java-la-gi/</link>
+      <link>/posts/java-la-gi/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/java-la-gi/</guid>
+      <guid>/posts/java-la-gi/</guid>
       <description>&lt;h2 id=&#34;java-là-gì&#34;&gt;Java là gì?&lt;/h2&gt;
 &lt;p&gt;Java là ngôn ngữ lập trình hướng đối tượng,
 được sử dụng rộng rãi trong phát triển phần mềm.&lt;/p&gt;

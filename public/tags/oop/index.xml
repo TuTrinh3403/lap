@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OOP on Blog Java &amp; JavaScript</title>
-    <link>//localhost:1313/tags/oop/</link>
+    <link>/tags/oop/</link>
     <description>Recent content in OOP on Blog Java &amp; JavaScript</description>
     <generator>Hugo -- 0.153.2</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/oop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/oop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lập trình hướng đối tượng trong Java</title>
-      <link>//localhost:1313/posts/oop-trong-java/</link>
+      <link>/posts/oop-trong-java/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/oop-trong-java/</guid>
+      <guid>/posts/oop-trong-java/</guid>
       <description>&lt;h2 id=&#34;oop-là-gì&#34;&gt;OOP là gì?&lt;/h2&gt;
 &lt;p&gt;OOP là phương pháp lập trình dựa trên đối tượng.&lt;/p&gt;
 &lt;h2 id=&#34;4-tính-chất-chính&#34;&gt;4 tính chất chính&lt;/h2&gt;

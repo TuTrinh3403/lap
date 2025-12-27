@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/cau-truc-chuong-trinh-java/</loc>
+    <loc>/posts/cau-truc-chuong-trinh-java/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/co-ban/</loc>
+    <loc>/tags/co-ban/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/fetch-api/</loc>
+    <loc>/tags/fetch-api/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/fetch-api/</loc>
+    <loc>/posts/fetch-api/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/java/</loc>
+    <loc>/tags/java/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/java-la-gi/</loc>
+    <loc>/posts/java-la-gi/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/java-http/</loc>
+    <loc>/tags/java-http/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/javascript/</loc>
+    <loc>/tags/javascript/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/javascript-la-gi/</loc>
+    <loc>/posts/javascript-la-gi/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/javascript-http/</loc>
+    <loc>/posts/javascript-http/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/oop-trong-java/</loc>
+    <loc>/posts/oop-trong-java/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/socket-tcp-java/</loc>
+    <loc>/posts/socket-tcp-java/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/oop/</loc>
+    <loc>/tags/oop/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/so-sanh-java-javascript/</loc>
+    <loc>/posts/so-sanh-java-javascript/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/socket-tcp/</loc>
+    <loc>/tags/socket-tcp/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/udp/</loc>
+    <loc>/tags/udp/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/udp-trong-java/</loc>
+    <loc>/posts/udp-trong-java/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>

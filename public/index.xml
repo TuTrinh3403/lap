@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Trang chủ on Blog Java &amp; JavaScript</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Trang chủ on Blog Java &amp; JavaScript</description>
     <generator>Hugo -- 0.153.2</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cấu trúc chương trình Java cơ bản</title>
-      <link>//localhost:1313/posts/cau-truc-chuong-trinh-java/</link>
+      <link>/posts/cau-truc-chuong-trinh-java/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/cau-truc-chuong-trinh-java/</guid>
+      <guid>/posts/cau-truc-chuong-trinh-java/</guid>
       <description>&lt;h2 id=&#34;cấu-trúc-chương-trình-java&#34;&gt;Cấu trúc chương trình Java&lt;/h2&gt;
 &lt;p&gt;Một chương trình Java gồm:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>Fetch API trong JavaScript</title>
-      <link>//localhost:1313/posts/fetch-api/</link>
+      <link>/posts/fetch-api/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/fetch-api/</guid>
+      <guid>/posts/fetch-api/</guid>
       <description>&lt;h2 id=&#34;fetch-api&#34;&gt;Fetch API&lt;/h2&gt;
 &lt;p&gt;Là cách hiện đại để gửi HTTP request.&lt;/p&gt;
 &lt;h2 id=&#34;ưu-điểm&#34;&gt;Ưu điểm&lt;/h2&gt;
@@ -47,9 +47,9 @@
     </item>
     <item>
       <title>Giới Thiệu</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;👋 Xin chào, mình là &lt;strong&gt;Trinh&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;🎓 Sinh viên / Lập trình viên mới học&lt;br&gt;
 💻 Quan tâm đến &lt;strong&gt;Java – JavaScript – Web&lt;/strong&gt;&lt;/p&gt;
@@ -67,9 +67,9 @@
     </item>
     <item>
       <title>Java là gì? Ứng dụng của Java trong lập trình mạng</title>
-      <link>//localhost:1313/posts/java-la-gi/</link>
+      <link>/posts/java-la-gi/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/java-la-gi/</guid>
+      <guid>/posts/java-la-gi/</guid>
       <description>&lt;h2 id=&#34;java-là-gì&#34;&gt;Java là gì?&lt;/h2&gt;
 &lt;p&gt;Java là ngôn ngữ lập trình hướng đối tượng,
 được sử dụng rộng rãi trong phát triển phần mềm.&lt;/p&gt;
@@ -81,9 +81,9 @@ ServerSocket hỗ trợ xây dựng ứng dụng client-server.&lt;/p&gt;
     </item>
     <item>
       <title>JavaScript là gì?</title>
-      <link>//localhost:1313/posts/javascript-la-gi/</link>
+      <link>/posts/javascript-la-gi/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/javascript-la-gi/</guid>
+      <guid>/posts/javascript-la-gi/</guid>
       <description>&lt;h2 id=&#34;javascript-là-gì&#34;&gt;JavaScript là gì?&lt;/h2&gt;
 &lt;p&gt;JavaScript là ngôn ngữ lập trình chạy trên trình duyệt.&lt;/p&gt;
 &lt;h2 id=&#34;vai-trò&#34;&gt;Vai trò&lt;/h2&gt;
@@ -96,9 +96,9 @@ ServerSocket hỗ trợ xây dựng ứng dụng client-server.&lt;/p&gt;
     </item>
     <item>
       <title>JavaScript và HTTP Request</title>
-      <link>//localhost:1313/posts/javascript-http/</link>
+      <link>/posts/javascript-http/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/javascript-http/</guid>
+      <guid>/posts/javascript-http/</guid>
       <description>&lt;h2 id=&#34;http-request-là-gì&#34;&gt;HTTP Request là gì?&lt;/h2&gt;
 &lt;p&gt;Là yêu cầu từ client gửi đến server.&lt;/p&gt;
 &lt;h2 id=&#34;javascript-xử-lý-http&#34;&gt;JavaScript xử lý HTTP&lt;/h2&gt;
@@ -110,9 +110,9 @@ ServerSocket hỗ trợ xây dựng ứng dụng client-server.&lt;/p&gt;
     </item>
     <item>
       <title>Lập trình hướng đối tượng trong Java</title>
-      <link>//localhost:1313/posts/oop-trong-java/</link>
+      <link>/posts/oop-trong-java/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/oop-trong-java/</guid>
+      <guid>/posts/oop-trong-java/</guid>
       <description>&lt;h2 id=&#34;oop-là-gì&#34;&gt;OOP là gì?&lt;/h2&gt;
 &lt;p&gt;OOP là phương pháp lập trình dựa trên đối tượng.&lt;/p&gt;
 &lt;h2 id=&#34;4-tính-chất-chính&#34;&gt;4 tính chất chính&lt;/h2&gt;
@@ -129,9 +129,9 @@ ServerSocket hỗ trợ xây dựng ứng dụng client-server.&lt;/p&gt;
     </item>
     <item>
       <title>Lập trình Socket TCP trong Java</title>
-      <link>//localhost:1313/posts/socket-tcp-java/</link>
+      <link>/posts/socket-tcp-java/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/socket-tcp-java/</guid>
+      <guid>/posts/socket-tcp-java/</guid>
       <description>&lt;h2 id=&#34;tcp-là-gì&#34;&gt;TCP là gì?&lt;/h2&gt;
 &lt;p&gt;TCP là giao thức hướng kết nối, đảm bảo dữ liệu chính xác.&lt;/p&gt;
 &lt;h2 id=&#34;socket-trong-java&#34;&gt;Socket trong Java&lt;/h2&gt;
@@ -147,9 +147,9 @@ ServerSocket hỗ trợ xây dựng ứng dụng client-server.&lt;/p&gt;
     </item>
     <item>
       <title>So sánh Java và JavaScript</title>
-      <link>//localhost:1313/posts/so-sanh-java-javascript/</link>
+      <link>/posts/so-sanh-java-javascript/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/so-sanh-java-javascript/</guid>
+      <guid>/posts/so-sanh-java-javascript/</guid>
       <description>&lt;h2 id=&#34;điểm-giống&#34;&gt;Điểm giống&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Đều là ngôn ngữ lập trình&lt;/li&gt;
@@ -168,9 +168,9 @@ JavaScript: web, frontend&lt;/p&gt;
     </item>
     <item>
       <title>UDP và ứng dụng trong Java</title>
-      <link>//localhost:1313/posts/udp-trong-java/</link>
+      <link>/posts/udp-trong-java/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/udp-trong-java/</guid>
+      <guid>/posts/udp-trong-java/</guid>
       <description>&lt;h2 id=&#34;udp-là-gì&#34;&gt;UDP là gì?&lt;/h2&gt;
 &lt;p&gt;UDP là giao thức không kết nối, truyền nhanh nhưng không đảm bảo.&lt;/p&gt;
 &lt;h2 id=&#34;udp-trong-java&#34;&gt;UDP trong Java&lt;/h2&gt;
