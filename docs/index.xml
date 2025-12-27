@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trang chủ on Blog Java &amp; JavaScript</title>
+    <link>https://tutrinh3403.github.io/lap/</link>
+    <description>Recent content in Trang chủ on Blog Java &amp; JavaScript</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi</language>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tutrinh3403.github.io/lap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu trúc chương trình Java cơ bản</title>
+      <link>https://tutrinh3403.github.io/lap/posts/cau-truc-chuong-trinh-java/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/cau-truc-chuong-trinh-java/</guid>
+      <description>&lt;h2 id=&#34;cấu-trúc-chương-trình-java&#34;&gt;Cấu trúc chương trình Java&lt;/h2&gt;
+&lt;p&gt;Một chương trình Java gồm:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Package&lt;/li&gt;
+&lt;li&gt;Class&lt;/li&gt;
+&lt;li&gt;Hàm main&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Hello&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello Java&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fetch API trong JavaScript</title>
+      <link>https://tutrinh3403.github.io/lap/posts/fetch-api/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/fetch-api/</guid>
+      <description>&lt;h2 id=&#34;fetch-api&#34;&gt;Fetch API&lt;/h2&gt;
+&lt;p&gt;Là cách hiện đại để gửi HTTP request.&lt;/p&gt;
+&lt;h2 id=&#34;ưu-điểm&#34;&gt;Ưu điểm&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dễ dùng&lt;/li&gt;
+&lt;li&gt;Hỗ trợ Promise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ứng-dụng&#34;&gt;Ứng dụng&lt;/h2&gt;
+&lt;p&gt;Gọi API, lấy dữ liệu động.&lt;/p&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;Fetch API là công cụ quan trọng của JavaScript.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giới Thiệu</title>
+      <link>https://tutrinh3403.github.io/lap/about/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/about/</guid>
+      <description>&lt;p&gt;👋 Xin chào, mình là &lt;strong&gt;Trinh&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🎓 Sinh viên / Lập trình viên mới học&lt;br&gt;
+💻 Quan tâm đến &lt;strong&gt;Java – JavaScript – Web&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mục-tiêu&#34;&gt;Mục tiêu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chia sẻ kiến thức học tập&lt;/li&gt;
+&lt;li&gt;Ghi lại quá trình học lập trình&lt;/li&gt;
+&lt;li&gt;Xây dựng blog cá nhân chuyên nghiệp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;liên-hệ&#34;&gt;Liên hệ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/TuTrinh3403&#34;&gt;https://github.com/TuTrinh3403&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:nguyenphuongtutrinh2102@gmail.com&#34;&gt;nguyenphuongtutrinh2102@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Java là gì? Ứng dụng của Java trong lập trình mạng</title>
+      <link>https://tutrinh3403.github.io/lap/posts/java-la-gi/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/java-la-gi/</guid>
+      <description>&lt;h2 id=&#34;java-là-gì&#34;&gt;Java là gì?&lt;/h2&gt;
+&lt;p&gt;Java là ngôn ngữ lập trình hướng đối tượng,
+được sử dụng rộng rãi trong phát triển phần mềm.&lt;/p&gt;
+&lt;h2 id=&#34;java-trong-lập-trình-mạng&#34;&gt;Java trong lập trình mạng&lt;/h2&gt;
+&lt;p&gt;Java cung cấp các thư viện mạnh mẽ như Socket,
+ServerSocket hỗ trợ xây dựng ứng dụng client-server.&lt;/p&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;Java là nền tảng quan trọng cho sinh viên CNTT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript là gì?</title>
+      <link>https://tutrinh3403.github.io/lap/posts/javascript-la-gi/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/javascript-la-gi/</guid>
+      <description>&lt;h2 id=&#34;javascript-là-gì&#34;&gt;JavaScript là gì?&lt;/h2&gt;
+&lt;p&gt;JavaScript là ngôn ngữ lập trình chạy trên trình duyệt.&lt;/p&gt;
+&lt;h2 id=&#34;vai-trò&#34;&gt;Vai trò&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tạo tương tác web&lt;/li&gt;
+&lt;li&gt;Xử lý dữ liệu phía client&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;JavaScript là ngôn ngữ không thể thiếu trong web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript và HTTP Request</title>
+      <link>https://tutrinh3403.github.io/lap/posts/javascript-http/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/javascript-http/</guid>
+      <description>&lt;h2 id=&#34;http-request-là-gì&#34;&gt;HTTP Request là gì?&lt;/h2&gt;
+&lt;p&gt;Là yêu cầu từ client gửi đến server.&lt;/p&gt;
+&lt;h2 id=&#34;javascript-xử-lý-http&#34;&gt;JavaScript xử lý HTTP&lt;/h2&gt;
+&lt;p&gt;Sử dụng Fetch API hoặc XMLHttpRequest.&lt;/p&gt;
+&lt;h2 id=&#34;ví-dụ&#34;&gt;Ví dụ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fetch&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://api.example.com&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  .&lt;span style=&#34;color:#a6e22e&#34;&gt;then&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt; =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;json&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Lập trình hướng đối tượng trong Java</title>
+      <link>https://tutrinh3403.github.io/lap/posts/oop-trong-java/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/oop-trong-java/</guid>
+      <description>&lt;h2 id=&#34;oop-là-gì&#34;&gt;OOP là gì?&lt;/h2&gt;
+&lt;p&gt;OOP là phương pháp lập trình dựa trên đối tượng.&lt;/p&gt;
+&lt;h2 id=&#34;4-tính-chất-chính&#34;&gt;4 tính chất chính&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Đóng gói&lt;/li&gt;
+&lt;li&gt;Kế thừa&lt;/li&gt;
+&lt;li&gt;Đa hình&lt;/li&gt;
+&lt;li&gt;Trừu tượng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lợi-ích&#34;&gt;Lợi ích&lt;/h2&gt;
+&lt;p&gt;Giúp code dễ bảo trì và mở rộng.&lt;/p&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;OOP là nền tảng quan trọng của Java.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lập trình Socket TCP trong Java</title>
+      <link>https://tutrinh3403.github.io/lap/posts/socket-tcp-java/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/socket-tcp-java/</guid>
+      <description>&lt;h2 id=&#34;tcp-là-gì&#34;&gt;TCP là gì?&lt;/h2&gt;
+&lt;p&gt;TCP là giao thức hướng kết nối, đảm bảo dữ liệu chính xác.&lt;/p&gt;
+&lt;h2 id=&#34;socket-trong-java&#34;&gt;Socket trong Java&lt;/h2&gt;
+&lt;p&gt;Java cung cấp lớp Socket và ServerSocket.&lt;/p&gt;
+&lt;h2 id=&#34;ứng-dụng&#34;&gt;Ứng dụng&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chat&lt;/li&gt;
+&lt;li&gt;Truyền file&lt;/li&gt;
+&lt;li&gt;Client-Server&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;TCP phù hợp với các ứng dụng cần độ tin cậy cao.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>So sánh Java và JavaScript</title>
+      <link>https://tutrinh3403.github.io/lap/posts/so-sanh-java-javascript/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/so-sanh-java-javascript/</guid>
+      <description>&lt;h2 id=&#34;điểm-giống&#34;&gt;Điểm giống&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Đều là ngôn ngữ lập trình&lt;/li&gt;
+&lt;li&gt;Hỗ trợ lập trình hướng đối tượng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;điểm-khác&#34;&gt;Điểm khác&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java chạy trên JVM&lt;/li&gt;
+&lt;li&gt;JavaScript chạy trên trình duyệt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ứng-dụng&#34;&gt;Ứng dụng&lt;/h2&gt;
+&lt;p&gt;Java: backend, mạng&lt;br&gt;
+JavaScript: web, frontend&lt;/p&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;Hai ngôn ngữ khác nhau về mục đích sử dụng.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UDP và ứng dụng trong Java</title>
+      <link>https://tutrinh3403.github.io/lap/posts/udp-trong-java/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/udp-trong-java/</guid>
+      <description>&lt;h2 id=&#34;udp-là-gì&#34;&gt;UDP là gì?&lt;/h2&gt;
+&lt;p&gt;UDP là giao thức không kết nối, truyền nhanh nhưng không đảm bảo.&lt;/p&gt;
+&lt;h2 id=&#34;udp-trong-java&#34;&gt;UDP trong Java&lt;/h2&gt;
+&lt;p&gt;Sử dụng DatagramSocket và DatagramPacket.&lt;/p&gt;
+&lt;h2 id=&#34;khi-nào-dùng-udp&#34;&gt;Khi nào dùng UDP?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Streaming&lt;/li&gt;
+&lt;li&gt;Game online&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;UDP phù hợp khi cần tốc độ cao.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

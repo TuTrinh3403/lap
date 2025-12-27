@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Blog Java &amp; JavaScript</title>
+    <link>https://tutrinh3403.github.io/lap/tags/</link>
+    <description>Recent content in Tags on Blog Java &amp; JavaScript</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi</language>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tutrinh3403.github.io/lap/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co-Ban</title>
+      <link>https://tutrinh3403.github.io/lap/tags/co-ban/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/co-ban/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fetch API</title>
+      <link>https://tutrinh3403.github.io/lap/tags/fetch-api/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/fetch-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://tutrinh3403.github.io/lap/tags/java/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java-HTTP</title>
+      <link>https://tutrinh3403.github.io/lap/tags/java-http/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/java-http/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>https://tutrinh3403.github.io/lap/tags/javascript/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OOP</title>
+      <link>https://tutrinh3403.github.io/lap/tags/oop/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/oop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Socket TCP</title>
+      <link>https://tutrinh3403.github.io/lap/tags/socket-tcp/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/socket-tcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UDP</title>
+      <link>https://tutrinh3403.github.io/lap/tags/udp/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/tags/udp/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

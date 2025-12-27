@@ -1,10 +1,15 @@
-baseURL = "/"
+# ================== BASIC ==================
+baseURL = "https://tutrinh3403.github.io/lap/"
 languageCode = "vi"
 title = "Blog Java & JavaScript"
 theme = "PaperMod"
 
+# QUAN TRỌNG cho GitHub Pages
+publishDir = "docs"
+
 enableRobotsTXT = true
 
+# ================== PAGINATION ==================
 [pagination]
 pagerSize = 5
 
@@ -70,8 +75,6 @@ url = "mailto:nguyenphuongtutrinh2102@gmail.com"
     url = "/tags/"
     weight = 4
 
+# ================== CUSTOM CSS ==================
 [params.assets]
-  customCSS = ["css/custom.css"]
-
-
-
+customCSS = ["css/custom.css"]

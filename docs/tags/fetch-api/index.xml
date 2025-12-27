@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fetch API on Blog Java &amp; JavaScript</title>
+    <link>https://tutrinh3403.github.io/lap/tags/fetch-api/</link>
+    <description>Recent content in Fetch API on Blog Java &amp; JavaScript</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi</language>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tutrinh3403.github.io/lap/tags/fetch-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fetch API trong JavaScript</title>
+      <link>https://tutrinh3403.github.io/lap/posts/fetch-api/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/fetch-api/</guid>
+      <description>&lt;h2 id=&#34;fetch-api&#34;&gt;Fetch API&lt;/h2&gt;
+&lt;p&gt;Là cách hiện đại để gửi HTTP request.&lt;/p&gt;
+&lt;h2 id=&#34;ưu-điểm&#34;&gt;Ưu điểm&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dễ dùng&lt;/li&gt;
+&lt;li&gt;Hỗ trợ Promise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ứng-dụng&#34;&gt;Ứng dụng&lt;/h2&gt;
+&lt;p&gt;Gọi API, lấy dữ liệu động.&lt;/p&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;Fetch API là công cụ quan trọng của JavaScript.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

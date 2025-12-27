@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UDP on Blog Java &amp; JavaScript</title>
+    <link>https://tutrinh3403.github.io/lap/tags/udp/</link>
+    <description>Recent content in UDP on Blog Java &amp; JavaScript</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi</language>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tutrinh3403.github.io/lap/tags/udp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UDP và ứng dụng trong Java</title>
+      <link>https://tutrinh3403.github.io/lap/posts/udp-trong-java/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tutrinh3403.github.io/lap/posts/udp-trong-java/</guid>
+      <description>&lt;h2 id=&#34;udp-là-gì&#34;&gt;UDP là gì?&lt;/h2&gt;
+&lt;p&gt;UDP là giao thức không kết nối, truyền nhanh nhưng không đảm bảo.&lt;/p&gt;
+&lt;h2 id=&#34;udp-trong-java&#34;&gt;UDP trong Java&lt;/h2&gt;
+&lt;p&gt;Sử dụng DatagramSocket và DatagramPacket.&lt;/p&gt;
+&lt;h2 id=&#34;khi-nào-dùng-udp&#34;&gt;Khi nào dùng UDP?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Streaming&lt;/li&gt;
+&lt;li&gt;Game online&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;UDP phù hợp khi cần tốc độ cao.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
