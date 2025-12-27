@@ -1,0 +1,77 @@
+baseURL = "/"
+languageCode = "vi"
+title = "Blog Java & JavaScript"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 5
+
+# ================== PARAMS ==================
+[params]
+author = "Nguyễn Phương Tú Trinh"
+description = "Blog chia sẻ kiến thức Java & JavaScript từ cơ bản đến nâng cao"
+
+# Giao diện
+defaultTheme = "auto"
+disableThemeToggle = false
+
+# Tính năng bài viết
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+# SEO
+env = "production"
+keywords = ["Java", "JavaScript", "Lập trình", "Blog cá nhân"]
+
+# ================== PROFILE MODE (HOME) ==================
+[params.profileMode]
+enabled = true
+title = "Blog Java & JavaScript"
+subtitle = "Học lập trình từ con số 0"
+imageUrl = "/avatar.png"
+
+# ================== SOCIAL ICONS ==================
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/TuTrinh3403"
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/share/1K6mXK1RXQ/?mibextid=wwXIfr"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:nguyenphuongtutrinh2102@gmail.com"
+
+# ================== MENU ==================
+[menu]
+  [[menu.main]]
+    name = "🏠 Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "📚 Bài viết"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "👤 Giới thiệu"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "🏷️ Tags"
+    url = "/tags/"
+    weight = 4
+
+[params.assets]
+  customCSS = ["css/custom.css"]
+
+
+

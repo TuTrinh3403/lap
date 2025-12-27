@@ -1,0 +1,123 @@
+/* ===============================
+   COLOR SYSTEM (NỮ TÍNH – NHẸ)
+================================ */
+:root {
+  --pink-main: #ec4899;
+  --pink-soft: #fde7f3;
+  --pink-border: #fbcfe8;
+  --text-main: #111111;
+  --text-muted: #444444;
+}
+
+/* ===============================
+   TEXT – GIỮ CHỮ ĐEN, TIÊU ĐỀ HỒNG
+================================ */
+body {
+  color: var(--text-main);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--pink-main);
+  font-weight: 700;
+}
+
+p, li {
+  color: var(--text-main);
+}
+
+/* ===============================
+   PROFILE (TRANG CHỦ)
+================================ */
+.profile {
+  background: linear-gradient(135deg, #ffe4f1, #ffd1e8);
+  padding: 2.5rem;
+  border-radius: 28px;
+  box-shadow: 0 20px 40px rgba(236, 72, 153, 0.15);
+}
+
+.profile img {
+  border-radius: 50%;
+  padding: 6px;
+  background: linear-gradient(135deg, #ec4899, #f472b6);
+}
+
+.profile h1 {
+  color: #9d174d;
+}
+
+.profile p {
+  color: var(--text-muted);
+}
+
+/* ===============================
+   ABOUT PAGE – ICON TEXT
+================================ */
+.post-content p strong {
+  color: var(--pink-main);
+}
+
+/* ===============================
+   POST CARD
+================================ */
+.post-entry {
+  border-radius: 18px;
+  transition: all 0.25s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(236, 72, 153, 0.18);
+}
+
+/* ===============================
+   TAGS – HOÀN THIỆN NHƯ BLOG XỊN
+   (CHỈ ẢNH HƯỞNG TRANG TAG)
+================================ */
+
+/* Khung tag */
+.terms-tags,
+.tag-entry {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 2rem;
+}
+
+/* Từng tag */
+.terms-tags a,
+.tag-entry a {
+  background: var(--pink-soft);
+  color: var(--text-main);
+  padding: 10px 18px;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border: 1px solid var(--pink-border);
+  transition: all 0.25s ease;
+}
+
+/* Hover tag */
+.terms-tags a:hover,
+.tag-entry a:hover {
+  background: var(--pink-main);
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(236, 72, 153, 0.25);
+}
+
+/* Số bài trong tag */
+.terms-tags sup {
+  background: var(--pink-main);
+  color: #ffffff;
+  font-size: 0.7rem;
+  padding: 3px 7px;
+  border-radius: 999px;
+  margin-left: 6px;
+}
+
+/* ===============================
+   FOOTER
+================================ */
+footer {
+  color: #ec4899;
+}
