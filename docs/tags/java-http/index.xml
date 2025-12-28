@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Java-HTTP on Blog Java &amp; JavaScript</title>
-    <link>https://tutrinh3403.github.io/lap/tags/java-http/</link>
+    <link>http://localhost:1313/lap/tags/java-http/</link>
     <description>Recent content in Java-HTTP on Blog Java &amp; JavaScript</description>
     <generator>Hugo -- 0.153.2</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tutrinh3403.github.io/lap/tags/java-http/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/lap/tags/java-http/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript và HTTP Request</title>
-      <link>https://tutrinh3403.github.io/lap/posts/javascript-http/</link>
+      <link>http://localhost:1313/lap/posts/javascript-http/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://tutrinh3403.github.io/lap/posts/javascript-http/</guid>
+      <guid>http://localhost:1313/lap/posts/javascript-http/</guid>
       <description>&lt;h2 id=&#34;http-request-là-gì&#34;&gt;HTTP Request là gì?&lt;/h2&gt;
 &lt;p&gt;Là yêu cầu từ client gửi đến server.&lt;/p&gt;
 &lt;h2 id=&#34;javascript-xử-lý-http&#34;&gt;JavaScript xử lý HTTP&lt;/h2&gt;

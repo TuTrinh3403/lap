@@ -3,9 +3,8 @@ languageCode = "vi"
 title = "Blog Java & JavaScript"
 theme = "PaperMod"
 
-# QUAN TRỌNG cho GitHub Pages
+# GitHub Pages
 publishDir = "docs"
-
 enableRobotsTXT = true
 
 # ================== PAGINATION ==================
@@ -21,7 +20,7 @@ description = "Blog chia sẻ kiến thức Java & JavaScript từ cơ bản đ�
 defaultTheme = "auto"
 disableThemeToggle = false
 
-# Tính năng bài viết
+# Bài viết
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
@@ -37,7 +36,9 @@ keywords = ["Java", "JavaScript", "Lập trình", "Blog cá nhân"]
 enabled = true
 title = "Blog Java & JavaScript"
 subtitle = "Học lập trình từ con số 0"
-imageUrl = "/avatar.png"
+imageUrl = "images/avatars.jpg"
+imageWidth = 150
+imageHeight = 150
 
 # ================== SOCIAL ICONS ==================
 [[params.socialIcons]]
